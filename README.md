@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vijay-kumar-varma-kucharlapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-varma-kucharlapati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijay-kumar-varma-kucharlapati-b6a12a24a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-kumar-varma-kucharlapati-b6a12a24a" height="30" width="40" /></a>
 <a href="https://instagram.com/vijayy_varma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijayy_varma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/21a31a4242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21a31a4242" height="30" width="40" /></a>
 <a href="https://leetcode.com/VijayKumarVarma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vijaykumarvarma/" height="30" width="40" /></a>
